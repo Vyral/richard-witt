@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Closing Costs to Expect When Working With Me
-date: 2019-05-06 20:02:35
+date: 2019-05-06 20:02:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -31,6 +31,6 @@ There are only three definite closing costs sellers who work with me are subject
 
 **Finally, there’s the matter of property taxes.** This is something all sellers must account for regardless of what avenue they choose when selling their property.&nbsp;
 
-If you have any other questions, would like more information, or are curious what the closing costs might look like for your specific transaction, feel free to give me a call, send me an email, or visit www.nyccashhomebuyer.com.
+If you have any other questions, would like more information, or are curious what the closing costs might look like for your specific transaction, feel free to give me a call, send me an email, or visit [www.nyccashhomebuyer.com](http://www.nyccashhomebuyer.com){: target="_blank"}.
 
 I look forward to hearing from you soon.
