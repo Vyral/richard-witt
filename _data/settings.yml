@@ -1,6 +1,12 @@
 audit_header: false
 title: NYC Real Estate Video Blog with Richard Witt
-description: Our mission at NYC Cash Home Buyer is to be your best resource for NYC real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The NYC Cash Home Buyer, your professional NYC Real Estate Agents.
+description: >-
+  Our mission at NYC Cash Home Buyer is to be your best resource for NYC real
+  estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The NYC Cash Home Buyer, your
+  professional NYC Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -9,44 +15,44 @@ show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
     url:
-
 client:
   name: Richard Witt
   title:
   license_number:
-  about_markdown: |
-    Are you in a difficult Real Estate situation? Do you need to sell a house quickly? We are your Trusted Source for Home Selling information since 1998. We will have an honest conversation with you about the benefits and disadvantages of a cash sale of your property.  If it is not right for you then it will not be right for us. It must be a win-win situation. We have purchased hundreds of homes since 1998. We have over $5,000,000.00 in funding available to purchase homes. You will always get cash at the closing. We always keep our word and will always tell you the truth. We will purchase your home as-is, in its present condition,no matter how much work is required. You can avoid all the costs and frustrations of fixing your property for sale. We are the buyers. We are interested in buying your home- not in listing it as a Real Estate Broker.
+  about_markdown: >-
+    Are you in a difficult Real Estate situation? Do you need to sell a house
+    quickly? We are your Trusted Source for Home Selling information since 1998.
+    We will have an honest conversation with you about the benefits and
+    disadvantages of a cash sale of your property. If it is not right for you
+    then it will not be right for us. It must be a win-win situation. We have
+    purchased hundreds of homes since 1998. We have over $5,000,000.00 in
+    funding available to purchase homes. You will always get cash at the
+    closing. We always keep our word and will always tell you the truth. We will
+    purchase your home as-is, in its present condition,no matter how much work
+    is required. You can avoid all the costs and frustrations of fixing your
+    property for sale. We are the buyers. We are interested in buying your home-
+    not in listing it as a Real Estate Broker.
   brand: NYC Cash Home Buyer
   brokerage:
   market: NYC
-  address: 5100 Sunrise Highway Massapequa, NY 11762
+  address: '5100 Sunrise Highway Massapequa, NY 11762'
   phone: 212-300-1066
   phone_type:
   phone2:
   phone2_type:
-  email: rmw112@gmail.com
-  url: https://www.nyccashhomebuyer.com
-
+  email: Rmw112@gmail.com
+  url: 'https://www.nyccashhomebuyer.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.nyccashhomebuyer.com/
-  # second_CTA_text: Home Search
-  # second_CTA_URL: /homesearch/
-
+  first_CTA_URL: 'https://www.nyccashhomebuyer.com/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Get Your Fair Cash Offer!"
-    CTA_text: "We buy houses in ANY CONDITION in NY. There are no commissions or fees and no obligation whatsoever."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.nyccashhomebuyer.com/
-
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/002.jpg
-#     CTA_title2: "Looking for a NYC Home?"
-#     CTA_text2: "Search the entire MLS for your NYC home."
-#     CTA_link_text2: "Search the MLS"
-#     CTA_url2: /homesearch/
-
+    CTA_title: Get Your Fair Cash Offer!
+    CTA_text: >-
+      We buy houses in ANY CONDITION in NY. There are no commissions or fees and
+      no obligation whatsoever.
+    CTA_link_text: Free Home Value Report
+    CTA_url: 'https://www.nyccashhomebuyer.com/'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -59,12 +65,11 @@ lender:
   phone:
   email:
   url:
-
 socials:
   review_sm_icons: false
-  facebook_url: http://www.facebook.com/LongIslandCashHomeBuyer
+  facebook_url: 'http://www.facebook.com/LongIslandCashHomeBuyer'
   linkedin_url:
-  youtube_url: https://www.youtube.com/channel/UCmlsVXACTkULDZMegt-GFtQ
+  youtube_url: 'https://www.youtube.com/channel/UCmlsVXACTkULDZMegt-GFtQ'
   twitter_url:
   instagram_url:
   pinterest_url:
@@ -72,46 +77,53 @@ socials:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'NYC Real Estate Podcast with Richard Witt'
-  categories: Education
+  title: NYC Real Estate Podcast with Richard Witt
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the NYC Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from NYC Cash Home Buyer - your professional NYC Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in NYC, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Richard Witt'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the NYC Area
+    Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from NYC Cash Home Buyer - your
+    professional NYC Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in NYC, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Richard Witt
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: NYC Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
-
 site_colors:
   brand_color: '#d4470f'
   theme_color: '#4e4e4e'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
